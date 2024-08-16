@@ -1,5 +1,5 @@
 # Android-Help-Tool
-The AHT is a CLI tool with have a ton of features to help people with work on android device repair and developers
+The AHT is a portable CLI tool with have a ton of features to help people with work on android device repair and developers
 
 ## Features
 
@@ -21,3 +21,25 @@ If you dont know anything about phones the assistent mode will clarify what to d
 
 
 New features is going to be added
+
+
+## How to install
+
+### Windows
+
+In this moment, windows is not available
+
+### Linux and Mac
+
+(Note: In linux the installer runs only in Ubuntu/Debian based distros)
+
+Select the version you want in <https://github.com/NobreStack/Android-Help-Tool/releases/tag/releases> and install and extract the AHT.zip
+Next, open your terminal and add permission to installer.sh be executable
+
+    chmod +x installer.sh
+
+After that open the installer
+
+    ./installer.sh
+
+After the installation is complete the installer will open the main.sh
