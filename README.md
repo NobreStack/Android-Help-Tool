@@ -35,7 +35,7 @@ In this moment, windows is not available
 
 Download the file
 
-        git clone https://github.com/NobreStack/Android-Help-Tool.git
+    git clone https://github.com/NobreStack/Android-Help-Tool.git
         
 Next, open your terminal and add permission to installer.sh be executable
 
