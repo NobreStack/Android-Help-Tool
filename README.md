@@ -33,7 +33,10 @@ In this moment, windows is not available
 
 (Note: In linux the installer runs only in Ubuntu/Debian based distros)
 
-Select the version you want in <https://github.com/NobreStack/Android-Help-Tool/releases/tag/releases> and install and extract the AHT.zip
+Download the file
+
+        git clone https://github.com/NobreStack/Android-Help-Tool.git
+        
 Next, open your terminal and add permission to installer.sh be executable
 
     chmod +x installer.sh
