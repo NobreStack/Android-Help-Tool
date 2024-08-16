@@ -37,7 +37,11 @@ Download the file
 
     git clone https://github.com/NobreStack/Android-Help-Tool.git
         
-Next, open your terminal and add permission to installer.sh be executable
+Next, go to the folder
+
+    cd Android-Help-Tool
+
+Next add permission to installer.sh be executable
 
     chmod +x installer.sh
 
